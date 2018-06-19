@@ -1,0 +1,26 @@
+body{
+	background-color: pink;
+}
+
+h1{
+	font-family: 'Poppins', sans-serif;
+}
+
+.header-text{
+	padding-top: 20vh;
+}
+
+.background-img{
+	background: url("../img/header.gif") no-repeat center;
+	-webkit-background-size:cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height: 100vh;
+}
+
+.green{
+	color: rgb(84,255,61);
+}
+
+
