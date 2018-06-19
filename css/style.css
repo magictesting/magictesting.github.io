@@ -10,6 +10,11 @@ h1{
 	padding-top: 20vh;
 }
 
+.header{
+	color: rgb(255,0,155);
+	font-weight: bold;
+}
+
 .background-img{
 	background: url("../img/header.gif") no-repeat center;
 	-webkit-background-size:cover;
@@ -19,8 +24,31 @@ h1{
 	height: 100vh;
 }
 
+.navbar-trans {
+    background: transparent;
+}
+
+.navbar-text {
+	color: blue;
+	font-weight: bold;
+}
+
+.background-yellow {
+	background-color: rgb(232,255,117);
+}
+
+.background-blue {
+	background-color: rgb(120,229,255);
+}
+
 .green{
 	color: rgb(84,255,61);
 }
 
+.yellow{
+	color: yellow;
+}
 
+.bold {
+	font-weight: bold;
+}
